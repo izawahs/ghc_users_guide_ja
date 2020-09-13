@@ -2,6 +2,3 @@
 
 [GHC User's Guide](https://downloads.haskell.org/ghc/latest/docs/html/users_guide/)の和訳プロジェクトです。現在はGHCバージョン8.10.1のものを訳しています。
 
-## ライセンス
-
-[LICENSE.txt](./LICENSE.txt)を参照してください。
